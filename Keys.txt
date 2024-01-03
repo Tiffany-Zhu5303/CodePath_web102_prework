@@ -1,2 +1,4 @@
 Challenge 0: Seaworthy
-Challenge 1: OOZE
+Challenge 1: OOZEdiveTRAPpine
+Challenge 2: 6games-container.stats-card15
+Challenge 3: 11seafoamGAMES_JSON
