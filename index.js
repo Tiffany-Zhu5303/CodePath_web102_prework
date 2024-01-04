@@ -41,10 +41,11 @@ function addGamesToPage(games) {
         // about each game
         // TIP: if your images are not displaying, make sure there is space
         // between the end of the src attribute and the end of the tag ("/>")
-            div.innerHTML = `<image class="game-img" src=${games[i].img}></image><p><b>${games[i].name}</b></p><p>${games[i].description}</p><p>Backers: ${games[i].backers}</p>`;
+            div.innerHTML = `<image class="game-img" src=${games[i].img}></image><h4>${games[i].name}</h4><p>${games[i].description}</p><p>Backers: ${games[i].backers}</p>`;
 
         // append the game to the games-container
-            document.body.appendChild(div);
+            const game_container = document.querySelector('#games-container')
+            game_container.appendChild(div);
         }
 
 }

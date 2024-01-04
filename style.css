@@ -46,7 +46,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    flex-direction: row;
 }
 
 .game-img {
@@ -62,12 +61,6 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
-    display: inline-flex;
-    align-items: stretch;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-content: center;
 }
 
 .game-card:hover {

@@ -21,7 +21,7 @@ const games = ` [
     "description": "Your zoo in a box with more than 230 Animal Meeples. A highly thematic board game experience for 1-4 players.",
     "pledged": 442602,
     "goal": 78480,
-    "backers": 3869,
+    "backers": 3869,  
     "img": "./assets/zoo_tycoon.png"
   },
   {
