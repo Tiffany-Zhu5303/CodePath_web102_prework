@@ -19,14 +19,14 @@ body {
     margin-top: -10px;
 }
 
-.stats-container:hover{
-    cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
-}
-
 .stats-container {
     display: flex;
     align-items: baseline;
+}
+
+.stats-card:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -68,14 +68,40 @@ body {
     box-shadow: 0 0 30px lightblue;
 }
 
+#search-and-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+#search-container {
+    width: 500px;
+}
+
+#search-btn {
+    float: left
+}
+
+#search {
+    padding: 3%;
+    margin: 3%;
+    border-radius: 7px;
+    float: left;
+    font-size: medium;
+}
+
 #button-container {
     text-align: center;
+    width: 600px;
+}
+
+button:hover{
+    cursor: pointer;
 }
 
 button {
     font-family: 'Cabin';
     border: none;
-    padding: 1%;
-    margin: 1%;
+    padding: 3%;
+    margin: 3%;
     border-radius: 7px;
 }

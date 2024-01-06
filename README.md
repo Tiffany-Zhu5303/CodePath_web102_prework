@@ -18,6 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+  [X] To have each of the stat cards glow instead of the stat card container
+  [ ] Search function for names of games
+  [X] Cursor to pointer over buttons
 
 ## Video Walkthrough
 
