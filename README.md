@@ -42,7 +42,6 @@ Challenges encountered while building the app:
 - I realized that I appended the game cards incorrectly which took me some time to realize my mistake. But from
   this mistake I was able to do a deeper review of HTML and CSS while working through my mistakes.
 - As of this update, the search bar isn't able to search for the games but it is something I would like to improve upon
-- 
 
 ## License
 
