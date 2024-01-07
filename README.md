@@ -26,10 +26,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./CodePath Pre-work.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Peek
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,7 +37,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+- I am a complete beginner with Javascript so it took me some time to understand how functions worked.
+- I realized that I appended the game cards incorrectly which took me some time to realize my mistake. But from
+  this mistake I was able to do a deeper review of HTML and CSS while working through my mistakes.
+- As of this update, the search bar isn't able to search for the games but it is something I would like to improve upon
+- 
 
 ## License
 
